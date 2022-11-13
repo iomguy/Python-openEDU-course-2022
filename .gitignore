@@ -1,6 +1,6 @@
 *
-!*/longreads/*
-!*/practice/*
+!longreads/
+!practice/
 *.html
 .idea/
 .ipynb_checkpoints/
